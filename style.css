@@ -16,7 +16,7 @@
   font-family: "Roboto", sans-serif;
 }
 .main {
-  background-color: #5f5d9c;
+  /* background-color: #5f5d9c; */
   width: 86vw;
   padding: 20px;
 }
@@ -31,13 +31,17 @@ nav ul li {
   padding-left: 40px;
   font-family: "Roboto", sans-serif;
 }
+nav ul li a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.565);
+}
 span {
   padding: 5px;
 }
 .info {
   display: flex;
   justify-content: space-around;
-  background-color: #a8cd9f;
+  /* background-color: #a8cd9f; */
   width: 70vw;
   height: 90vh;
   margin: auto;
@@ -59,6 +63,11 @@ span {
 .post {
   font-size: 30px;
 }
+.about {
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  margin: 5px;
+}
 .btn button {
   padding: 5px 10px;
   border-radius: 2px;
@@ -67,11 +76,13 @@ span {
   box-shadow: 3px 3px black;
   border-radius: 15px;
   cursor: pointer;
-  transition: all 0.4s ease-in;
+  transition: all 0.3s ease-in;
   color: whitesmoke;
 }
 .btn button:hover {
   box-shadow: 5px 5px black;
+  background-color: white;
+  color: #864af9;
 }
 .text {
   display: flex;

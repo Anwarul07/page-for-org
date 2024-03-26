@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  font-family: "Roboto", sans-serif;
+  padding: 10px;
+}
+.submit {
+  padding: 4px 6px;
+  /* margin-left: 8.5vw; */
+  border-radius: 2px;
+  background-color: #8752eb;
+  box-shadow: 3px 3px black;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease-in;
+  color: whitesmoke;
+  margin-bottom: 10px;
+}
+.submit:hover {
+  box-shadow: 5px 5px black;
+  background-color: white;
+  color: #864af9;
+}
+.img {
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px
+}h1{
+    font-family: "ubuntu", sans-serif;
+}

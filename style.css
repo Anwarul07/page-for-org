@@ -45,6 +45,7 @@ span {
   width: 70vw;
   height: 90vh;
   margin: auto;
+  padding: 20px;
   border-radius: 5px;
   font-family: "Ubuntu", sans-serif;
 }

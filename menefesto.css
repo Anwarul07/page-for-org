@@ -1,0 +1,26 @@
+
+.main{
+    padding: 20px;
+}
+.flex {
+  display: flex;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+h1 {
+  font-family: "ubuntu", sans-serif;
+  padding: 5px;
+  color: #000;
+}
+h3{
+    font-family: "ubuntu", sans-serif;
+    padding: 5px;
+    color: #075b80;
+}
+
+.img {
+  padding:0  40px 40px 40px;
+}
+.img img{
+    width: 250px;
+}

@@ -24,3 +24,7 @@ h3{
 .img img{
     width: 250px;
 }
+p{
+  font-family: "Roboto", sans-serif;
+  /* font-size: 15px; */
+}

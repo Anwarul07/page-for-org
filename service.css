@@ -1,0 +1,17 @@
+.heading h1{
+    font-family: "ubuntu",  sans-serif;
+    color: #075b80;
+    padding: 5px;
+}
+h4{
+    font-family: "ubuntu",  sans-serif;
+    padding: 5px;
+}  
+p{
+    font-family: "Roboto",  sans-serif;  
+}
+.pic img{
+    width: 70vw;
+    height: 70vh;
+ 
+}  

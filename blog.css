@@ -1,3 +1,6 @@
+.sidebar {
+  height: 110vh;
+}
 .container {
   display: flex;
   font-family: "Roboto", sans-serif;
@@ -27,3 +30,7 @@
 }h1{
     font-family: "ubuntu", sans-serif;
 }
+.small{
+  font-family: "Roboto", sans-serif;
+}
+

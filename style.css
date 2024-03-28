@@ -14,16 +14,16 @@
   height: 100vh;
   font-size: 20px;
   font-family: "Roboto", sans-serif;
+  transition: all 0.4s ease-in;
 }
-.profile  {
+.profile {
   color: #075b80;
   font-family: "Ubuntu", sans-serif;
   font-weight: 600;
   padding: 5px;
   background-color: whitesmoke;
   border: 2px solid rgba(0, 0, 0, 0.756);
-  text-align: center;
-
+  text-align:center;
 }
 .main {
   /* background-color: #5f5d9c; */
@@ -98,4 +98,18 @@ nav ul li a {
   flex-direction: column;
   justify-content: center;
   padding: 10px;
+}
+.hamburger {
+  position: absolute;
+  cursor: pointer;
+  top: 7.5px;
+  left: 10px;
+}
+.cross{
+  margin-left: 16vw;
+}
+.sidebargo{
+  transform: translate(-450px, 0px);
+  position: absolute;
+  
 }
